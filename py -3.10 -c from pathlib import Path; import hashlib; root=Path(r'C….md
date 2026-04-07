@@ -1,0 +1,1 @@
+py -3.10 -c "from pathlib import Path; import hashlib; root=Path(r'C:\Users\middl\Documents\OTFZ'); files=[p for p in root.rglob('*') if p.is_file()]; [print(f'{hashlib.sha256(hashlib.sha256(p.read_bytes()).digest()).hexdigest()}  {p}') for p in files]"  

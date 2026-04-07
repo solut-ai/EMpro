@@ -1,0 +1,28 @@
+var STONLY_WID = "e2321395-bd45-11eb-8dbf-062882f67cfe";
+window.STONLY_WID = STONLY_WID;
+
+!function (s, t, o, n, l, y, w, g, d, e) {
+  s.StonlyWidget || ((d = s.StonlyWidget = function () {
+    d._api ? d._api.apply(d, arguments) : d.queue.push(arguments)
+  }).scriptPath = n, d.apiPath = l, d.sPath = y, d.queue = [],
+    (g = t.createElement(o)).async = !0, (e = new XMLHttpRequest).open("GET", n + "version?v=" + Date.now(), !0),
+    e.onreadystatechange = function () {
+      4 === e.readyState && (g.src = n + "stonly-widget.js?v=" +
+        (200 === e.status ? e.responseText : Date.now()), (w = t.getElementsByTagName(o)[0]).parentNode.insertBefore(g, w))
+    }, e.send())
+}(window, document, "script", "https://stonly.com/js/widget/v2/");
+
+(function (s, t, o, n, l, y, _) {
+  if (s.stonlyTrack) return;
+  _ = s.stonlyTrack = function () {
+    _._api ? _._api.apply(_, arguments) : _.queue.push(arguments);
+  };
+  _.queue = [];
+  y = t.createElement(o);
+  y.async = !0;
+  y.src = n;
+  l = t.getElementsByTagName(o)[0];
+  l.parentNode.insertBefore(y, l);
+})(window, document, 'script', 'https://stonly.com/js/tracker/stn.js');
+stonlyTrack('init', STONLY_WID);
+window['stonlyTrack'] = stonlyTrack;

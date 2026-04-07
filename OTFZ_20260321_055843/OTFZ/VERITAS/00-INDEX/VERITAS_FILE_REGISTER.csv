@@ -1,0 +1,18 @@
+file_path,category,status,version,created_on,public_or_internal,owner,sha256,notes
+00-INDEX/Public_Source_Links.md,index,active-draft,v0.2-draft,2026-03-21,public,OTFZ,9534dd368d07f360c29ddb0febb7edb55d2e44f140bda2d526d929980d17d91b,Curated public URLs used across current bundle.
+00-INDEX/VERITAS_CHANGELOG.md,index,active-draft,v0.2-draft,2026-03-21,internal,OTFZ,bbde2a907494e1570481497d1dc91dda795fe6006a69b5527b198f883238157f,VERITAS bundle file.
+00-INDEX/VERITAS_FILE_REGISTER.csv,index,active-draft,v0.2-draft,2026-03-21,internal,OTFZ,19086a468eddf041c017117baa68d882b762274f48f2fa88f5384c585770230a,Generated manifest with SHA-256 hashes.
+00-INDEX/VERITAS_MASTER_INDEX.md,index,active-draft,v0.2-draft,2026-03-21,internal,OTFZ,350dc1bc0f09fc7a011656643ce1719f9814357f54555616a31961816aebefc3,VERITAS bundle file.
+00-INDEX/VERITAS_TAGS.json,index,active-draft,v0.2-draft,2026-03-21,internal,OTFZ,01a83424e5397fd548d86640cfd76aad1d2a7effeefbd1edfcb23cf77461cd79,VERITAS bundle file.
+01-WHITEPAPER/EchoMind_Overview.md,whitepaper,active-draft,v0.2-draft,2026-03-21,internal,OTFZ,bebabd92b09911fd862083cf8969f35ff94a0ceea5dd2987b6eeab556697a251,VERITAS bundle file.
+01-WHITEPAPER/Homepage_Hero_Copy.md,whitepaper,active-draft,v0.2-draft,2026-03-21,internal,OTFZ,863184517f5e1fccc5f5863f0f691b82fec2e4d8951819d2927ebcb1af1e6613,VERITAS bundle file.
+01-WHITEPAPER/Spektraxa_AIR_Identity.md,whitepaper,active-draft,v0.2-draft,2026-03-21,internal,OTFZ,f453fe0a328efcf89cd869143884c38f9a9d37a9124e21d44d3016da9ef0cf58,VERITAS bundle file.
+03-CONSENSUS/SLVR8_Veritas_Spec_v0_2.md,consensus,active-draft,v0.2-draft,2026-03-21,internal,OTFZ,2ba4ffd29c730215bb6e9d6427a9c53ca0c842bcb22152315307e22ef761a9d4,"Consolidated consensus, wire format, pseudocode, AIR/PoM boundary."
+05-EDUCATION/AIR_Onboarding_Script.md,education,active-draft,v0.2-draft,2026-03-21,internal,OTFZ,7f406e0a28381c5fcb23369592395acf46c5d010cb7945443ff6212941347a4b,VERITAS bundle file.
+05-EDUCATION/Digital_Assets_Explained.md,education,active-draft,v0.2-draft,2026-03-21,public,OTFZ,f866bc3fcdf745ae82137f3409a769a7675508ec8d367073ea8c118a80070708,VERITAS bundle file.
+06-BUSINESS/Investor_One_Pager.md,business,active-draft,v0.2-draft,2026-03-21,internal,OTFZ,09334805d345717a24e8ab5b731520c4b204b529150b66fa014e69e8559720d8,VERITAS bundle file.
+06-BUSINESS/Multi-Commerce_MCt_Unreleased_Token_Profile.md,business,restricted,v0.2-draft,2026-03-21,restricted,OTFZ,8d05549a4fade8b419e38773438f5e2e7a2e1b8e10734f01ed575168d94cd889,Newest unrevealed unreleased token profile; handle as restricted.
+09-DEV/install_requirements_and_start_otfz.bat,dev,active-draft,v0.2-draft,2026-03-21,internal,OTFZ,a4bbf079087e42dfa74952fd8e3c9f2d38237008dd36d0344909e54e3cfd4777,"Windows launcher that installs requirements, runs precheck, and starts FastAPI app.py."
+09-DEV/otfz_fastapi_build_check.py,dev,active-draft,v0.2-draft,2026-03-21,internal,OTFZ,3da84eab20a8b31d074efe69bab0d9b2deb9ff531be4058b9784c7253c4ca6a0,Local FastAPI build-check and threatening code detection script.
+09-DEV/start_otfz_fastapi_with_precheck.bat,dev,active-draft,v0.2-draft,2026-03-21,internal,OTFZ,7269bda43c3038fcbf9a6bfa3ab164d287cb720fc6b46d15b44568d5903e256c,Windows launcher that runs precheck before starting FastAPI app.py.
+README.md,meta,active-draft,v0.2-draft,2026-03-21,internal,OTFZ,466e7d531d8872ed9d1d93cd8059421404ecf03735e632970b30661b382895f6,VERITAS bundle file.

@@ -1,0 +1,70 @@
+{
+  "dxt_version": "0.1",
+  "name": "mastercard-developers-mcp",
+  "icon": "mastercard-icon.png",
+  "version": "0.1.0",
+  "display_name": "Mastercard Developers MCP",
+  "description": "Access Mastercard Developers APIs, documentation, and specifications through MCP",
+  "long_description": "This extension provides seamless access to Mastercard Developers APIs, comprehensive documentation, and API specifications. It enables developers to query available services, retrieve detailed API operation information, access documentation sections, and get integration guides directly.\n\n**Key Features:**\n- List all available Mastercard services\n- Access comprehensive documentation and specific sections\n- Retrieve OAuth 1.0a and Open Banking integration guides\n- Get detailed API operation information including parameters and schemas\n- Query API specifications and operation details\n\n**Use Cases:**\n- API discovery and exploration\n- Documentation lookup during development\n- Integration planning and implementation\n- Authentication and authorization guidance",
+  "author": {
+    "name": "Mastercard Developers",
+    "email": "developer@mastercard.com",
+    "url": "https://developer.mastercard.com"
+  },
+  "homepage": "https://developer.mastercard.com",
+  "documentation": "https://developer.mastercard.com/platform/documentation",
+  "support": "https://developer.mastercard.com/support",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mastercard/mastercard-developers-agent-toolkit"
+  },
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "modelcontextprotocol",
+    "mastercard",
+    "mastercard-developers"
+  ],
+  "server": {
+    "type": "node",
+    "entry_point": "dist/index.js",
+    "mcp_config": {
+      "command": "node",
+      "args": ["${__dirname}/dist/index.js"]
+    }
+  },
+  "tools": [
+    {
+      "name": "get-services-list",
+      "description": "Lists all available Mastercard Developers Products and Services with their basic information including title, description, and service ID."
+    },
+    {
+      "name": "api-operations",
+      "description": "Provides a summary of all API operations for a specific Mastercard API specification including HTTP methods, request paths, titles, and descriptions."
+    },
+    {
+      "name": "api-operations-details",
+      "description": "Provides detailed information about a specific API operation including parameter definitions, request and response schemas, and technical specifications for successful API calls."
+    },
+    {
+      "name": "documentation",
+      "description": "Provides an overview of all available documentation for a specific Mastercard service including section titles, descriptions, and navigation links."
+    },
+    {
+      "name": "documentation-section-content",
+      "description": "Retrieves the complete content for a specific documentation section."
+    },
+    {
+      "name": "documentation-page",
+      "description": "Retrieves the complete content of a specific documentation page."
+    },
+    {
+      "name": "oauth10a-integration-guide",
+      "description": "Retrieves the comprehensive OAuth 1.0a integration guide including step-by-step instructions, code examples, and best practices for Mastercard APIs."
+    },
+    {
+      "name": "openbanking-integration-guide",
+      "description": "Retrieves the comprehensive Open Banking integration guide including setup instructions, API usage examples, and implementation best practices."
+    }
+  ]
+}
