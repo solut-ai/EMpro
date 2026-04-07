@@ -1,0 +1,377 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>LuxeVault by OTFZ</title>
+    <base href="/">    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
+    
+    
+    <meta name="theme-color" content="#7E47BF">
+    <meta name="description" content="Enter a world of elegance through the LuxeVault. Let your dreams be fulfilled by our luxury life experience. Spare no expense when the world is your oyster">
+    <meta name="keywords" content="luxevault by otfz, xfe25, business, productivity, networking, easyapp, made with easyapp, built with easyapp, easyapp example, easyapp showcase, no-code app, AI-powered app, mobile app builder, no-code platform, progressive web app, PWA">
+    <meta name="author" content="Taptoweb">
+    <meta name="generator" content="easyapp">
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+    <link rel="canonical" href="https://xfe25.easyapp.co">
+    
+    <!-- Backlinks to EasyApp (hidden from users, good for SEO) -->
+    <link rel="author" href="https://easyapp.ai">
+    <link rel="help" href="https://easyapp.ai">
+    <link rel="external" href="https://easyapp.ai" title="Built with easyapp">
+    
+    <!-- Apple Meta Tags -->
+    <meta name="apple-mobile-web-app-title" content="LuxeVault by OTFZ">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    
+    <!-- Open Graph Meta Tags (Clean for social sharing) -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="LuxeVault by OTFZ">
+    <meta property="og:description" content="Enter a world of elegance through the LuxeVault. Let your dreams be fulfilled by our luxury life experience. Spare no expense when the world is your oyster. Only for the super elite. ">
+    <meta property="og:url" content="https://xfe25.easyapp.co">
+    <meta property="og:image" content="https://xfe25.easyapp.co/assets/images/manifest-icon-512.maskable.png">
+    <meta property="og:image:width" content="512">
+    <meta property="og:image:height" content="512">
+    <meta property="og:image:alt" content="LuxeVault by OTFZ">
+    <meta property="og:site_name" content="LuxeVault by OTFZ">
+    <meta property="og:locale" content="en_EN">
+    
+    <!-- Twitter Card Meta Tags (Clean for social sharing) -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="LuxeVault by OTFZ">
+    <meta name="twitter:description" content="Enter a world of elegance through the LuxeVault. Let your dreams be fulfilled by our luxury life experience. Spare no expense when the world is your oyster. Only for the super elite. ">
+    <meta name="twitter:image" content="https://xfe25.easyapp.co/assets/images/manifest-icon-512.maskable.png">
+    <meta name="twitter:image:alt" content="LuxeVault by OTFZ">
+    
+    <!-- Additional SEO Meta Tags -->
+    <meta name="application-name" content="LuxeVault by OTFZ">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="HandheldFriendly" content="true">
+    <!-- JSON-LD Structured Data (EasyApp mention for SEO, not visible to users) -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebApplication",
+      "name": "LuxeVault by OTFZ",
+      "description": "Enter a world of elegance through the LuxeVault. Let your dreams be fulfilled by our luxury life experience. Spare no expense when the world is your oyster. Only for the super elite. ",
+      "url": "https://xfe25.easyapp.co",
+      "applicationCategory": "BusinessApplication",
+      "operatingSystem": "Any",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "creator": {
+        "@type": "Organization",
+        "name": "easyapp",
+        "url": "https://easyapp.ai",
+        "sameAs": [
+          "https://easyapp.ai"
+        ]
+      },
+      "image": "https://xfe25.easyapp.co/assets/images/manifest-icon-512.maskable.png",
+      "screenshot": "https://xfe25.easyapp.co/assets/images/manifest-icon-512.maskable.png",
+      "browserRequirements": "Requires JavaScript. Requires HTML5.",
+      "softwareVersion": "2.0",
+      "about": {
+        "@type": "SoftwareApplication",
+        "name": "easyapp",
+        "applicationCategory": "DeveloperApplication",
+        "url": "https://easyapp.ai"
+      }
+    }
+    </script>
+    <style>
+      /* These styles make the body full-height */
+      html,
+      body {
+        height: 100%;
+        overflow: hidden;
+        margin: auto;
+        background-color: rgba(173, 181, 189, 1);
+      }
+      /* Use full width on mobile devices (below tablet) */
+      @media (max-width: 767px) {
+        html,
+        body {
+          max-width: 100%;
+          width: 100%;
+        }
+      }
+      /* Limit to 430px on desktop/tablet */
+      @media (min-width: 768px) {
+        html,
+        body {
+          max-width: 430px;
+          width: 430px;
+        }
+      }
+      /* These styles make the root element full-height */
+      #root {
+        display: flex;
+        height: 100%;
+        width: 100%;
+      }
+      body {
+        box-shadow: -6px 0 20px rgba(0, 0, 0, 0.08), 6px 0 20px rgba(0, 0, 0, 0.08);
+        /*box-shadow: inset 6px 0 12px -6px rgba(0, 0, 0, 0.15), inset -6px 0 12px -6px rgba(0, 0, 0, 0.15);*/
+      }
+      .hide-scrollbars::-webkit-scrollbar {
+        display: none;
+      }
+    </style>
+    <script>
+      var exports = {};
+      // Auto-reload for CDN propagation delays
+      // Progressive retry: 100ms → 300ms → 500ms → 800ms → 1200ms → 2000ms (total ~2s)
+      // Prevents slow connection loops with exponential backoff and max retries
+      (function() {
+        var RETRY_KEY = 'easyapp_retry';
+        var RETRY_TIME_KEY = 'easyapp_retry_time';
+        var MAX_RETRIES = 3;
+        var reloading = false;
+        var checkScheduled = false;
+        // Progressive check intervals (cumulative: 100, 300, 600, 1000, 1500ms)
+        // If root has content at any point, we stop checking
+        var CHECK_INTERVALS = [100, 200, 300, 400, 500];
+        var FINAL_CHECK = 2000; // Final check at 2s total (after all progressives)
+        // Get retry count, reset if older than 2 minutes
+        var lastRetry = sessionStorage.getItem(RETRY_TIME_KEY);
+        if (lastRetry && Date.now() - parseInt(lastRetry) > 120000) {
+          sessionStorage.removeItem(RETRY_KEY);
+          sessionStorage.removeItem(RETRY_TIME_KEY);
+        }
+        var retries = parseInt(sessionStorage.getItem(RETRY_KEY) || '0');
+        // Show user-friendly error when max retries exceeded (using safe DOM methods)
+        function showLoadError() {
+          var root = document.getElementById('root');
+          if (!root) return;
+          // Clear existing content safely
+          while (root.firstChild) root.removeChild(root.firstChild);
+          // Build error UI with DOM API (XSS-safe)
+          var container = document.createElement('div');
+          container.style.cssText = 'display:flex;flex-direction:column;align-items:center;justify-content:center;width:100%;height:100%;padding:20px;text-align:center;font-family:-apple-system,BlinkMacSystemFont,sans-serif;box-sizing:border-box;';
+          var icon = document.createElement('div');
+          icon.style.cssText = 'font-size:48px;margin-bottom:16px;';
+          icon.textContent = '⚠️';
+          var title = document.createElement('h2');
+          title.style.cssText = 'margin:0 0 8px;font-size:18px;font-weight:600;';
+          title.textContent = 'Page failed to load';
+          var message = document.createElement('p');
+          message.style.cssText = 'margin:0 0 20px;font-size:14px;color:#666;';
+          message.textContent = 'Please reload the page or check your internet connection.';
+          var button = document.createElement('button');
+          button.style.cssText = 'padding:12px 24px;font-size:14px;font-weight:500;background:#007AFF;color:#fff;border:none;border-radius:8px;cursor:pointer;';
+          button.textContent = 'Reload';
+          button.onclick = function() {
+            sessionStorage.clear();
+            location.reload();
+          };
+          container.appendChild(icon);
+          container.appendChild(title);
+          container.appendChild(message);
+          container.appendChild(button);
+          root.appendChild(container);
+        }
+        function doReload() {
+          if (reloading) return;
+          // Show error UI if max retries exceeded
+          if (retries >= MAX_RETRIES) {
+            showLoadError();
+            return;
+          }
+          reloading = true;
+          sessionStorage.setItem(RETRY_KEY, String(retries + 1));
+          sessionStorage.setItem(RETRY_TIME_KEY, String(Date.now()));
+          // Nuclear option: Clear ALL caches and unregister service worker
+          // This ensures fresh assets on next load
+          var cleanupPromises = [];
+          // 1. Delete all caches
+          if (window.caches) {
+            cleanupPromises.push(
+              caches.keys().then(function(names) {
+                return Promise.all(names.map(function(name) {
+                  return caches.delete(name);
+                }));
+              })
+            );
+          }
+          // 2. Unregister service worker (forces fresh SW on reload)
+          if ('serviceWorker' in navigator) {
+            cleanupPromises.push(
+              navigator.serviceWorker.getRegistrations().then(function(registrations) {
+                return Promise.all(registrations.map(function(reg) {
+                  return reg.unregister();
+                }));
+              })
+            );
+          }
+          // 3. Reload after cleanup (with error logging for debugging)
+          Promise.all(cleanupPromises)
+            .catch(function(err) {
+              // Log cleanup errors for debugging (won't block reload)
+              if (window.console && console.warn) {
+                console.warn('[EasyApp] Cache cleanup error:', err);
+              }
+            })
+            .finally(function() {
+              window.location.reload();
+            });
+        }
+        function isRootPopulated() {
+          var root = document.getElementById('root');
+          return root && root.children.length > 0;
+        }
+        // Method 1: Catch script/module loading errors immediately (0ms detection)
+        // Handles both classic scripts and ES modules
+        window.addEventListener('error', function(e) {
+          // Classic script tag errors (target is the script element)
+          if (e.target && e.target.tagName === 'SCRIPT' && e.target.src) {
+            doReload();
+            return;
+          }
+          // ES Module errors - target may be window, check for src property
+          // This catches cases where Firefox reports module load failures
+          // Only reload for JavaScript files - other resource errors (images, API, etc.) should not trigger reload
+          if (e.target && e.target.src && typeof e.target.src === 'string' &&
+            (e.target.src.indexOf('.js') !== -1 || e.target.tagName === 'SCRIPT')) {
+            doReload();
+            return;
+          }
+          // Browser-specific error messages for module/script loading failures
+          // Firefox: "Loading failed for the module with source..."
+          // Chrome: "Failed to load module script...", "ChunkLoadError"
+          // Safari: "Could not load module script", "Script error.", "status of 404"
+          var errorText = e.message || (e.error && e.error.message) || String(e);
+          if (errorText && (
+              // Firefox
+              errorText.indexOf('Loading failed') !== -1 ||
+              // Chrome
+              errorText.indexOf('Failed to load module') !== -1 ||
+              errorText.indexOf('Failed to fetch') !== -1 ||
+              errorText.indexOf('ChunkLoadError') !== -1 ||
+              // Safari
+              errorText.indexOf('Could not load') !== -1 ||
+              errorText.indexOf('Script error') !== -1 ||
+              errorText.indexOf('status of 404') !== -1 ||
+              // Common
+              errorText.indexOf('MIME type') !== -1 ||
+              errorText.indexOf('Unexpected token') !== -1
+            )) {
+            doReload();
+            return;
+          }
+          // Firefox filename check for module errors
+          if (e.filename && e.filename.indexOf('.js') !== -1 && e.lineno === 0) {
+            doReload();
+          }
+        }, true);
+        // Method 1b: Catch dynamic import failures (Promise rejections)
+        // Handles React.lazy() and other dynamic imports
+        window.addEventListener('unhandledrejection', function(e) {
+          var reason = e.reason;
+          if (reason && (
+              (reason.name && reason.name === 'ChunkLoadError') ||
+              (reason.message && (
+                reason.message.indexOf('Loading chunk') !== -1 ||
+                reason.message.indexOf('Failed to fetch dynamically imported module') !== -1 ||
+                reason.message.indexOf('Failed to load module') !== -1 ||
+                reason.message.indexOf('Loading failed') !== -1
+              ))
+            )) {
+            e.preventDefault(); // Prevent console error
+            doReload();
+          }
+        });
+        // Method 2: Progressive root checks with early exit
+        function scheduleChecks() {
+          if (checkScheduled) return;
+          checkScheduled = true;
+          var currentDelay = 0;
+          // Schedule progressive checks
+          CHECK_INTERVALS.forEach(function(interval) {
+            currentDelay += interval;
+            setTimeout(function() {
+              // Early exit if root is populated
+              if (isRootPopulated()) {
+                clearSuccessState();
+                return;
+              }
+            }, currentDelay);
+          });
+          // Final check - trigger reload if still empty
+          setTimeout(function() {
+            if (!isRootPopulated()) {
+              doReload();
+            }
+          }, FINAL_CHECK);
+        }
+        function clearSuccessState() {
+          sessionStorage.removeItem(RETRY_KEY);
+          sessionStorage.removeItem(RETRY_TIME_KEY);
+        }
+        // Start progressive checks when DOM is ready
+        if (document.readyState === 'loading') {
+          document.addEventListener('DOMContentLoaded', scheduleChecks);
+        } else {
+          scheduleChecks();
+        }
+        // Clear retry count on successful load
+        window.addEventListener('load', function() {
+          setTimeout(function() {
+            if (isRootPopulated()) {
+              clearSuccessState();
+            }
+          }, 500);
+        });
+      })();
+    </script>
+    <link rel="manifest" href="/manifest.json">
+    <link rel="icon" type="image/png" sizes="196x196" href="assets/images/favicon-196.png">
+    <link rel="apple-touch-icon" href="assets/images/apple-icon-180.png">
+    
+    <link rel="apple-touch-startup-image" href="assets/images/apple-splash-2048-2732.png" media="(device-width: 1024px) and (device-height: 1366px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)">
+    <link rel="apple-touch-startup-image" href="assets/images/apple-splash-2732-2048.png" media="(device-width: 1024px) and (device-height: 1366px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)">
+    <link rel="apple-touch-startup-image" href="assets/images/apple-splash-1668-2388.png" media="(device-width: 834px) and (device-height: 1194px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)">
+    <link rel="apple-touch-startup-image" href="assets/images/apple-splash-2388-1668.png" media="(device-width: 834px) and (device-height: 1194px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)">
+    <link rel="apple-touch-startup-image" href="assets/images/apple-splash-1536-2048.png" media="(device-width: 768px) and (device-height: 1024px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)">
+    <link rel="apple-touch-startup-image" href="assets/images/apple-splash-2048-1536.png" media="(device-width: 768px) and (device-height: 1024px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)">
+    <link rel="apple-touch-startup-image" href="assets/images/apple-splash-1488-2266.png" media="(device-width: 744px) and (device-height: 1133px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)">
+    <link rel="apple-touch-startup-image" href="assets/images/apple-splash-2266-1488.png" media="(device-width: 744px) and (device-height: 1133px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)">
+    <link rel="apple-touch-startup-image" href="assets/images/apple-splash-1640-2360.png" media="(device-width: 820px) and (device-height: 1180px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)">
+    <link rel="apple-touch-startup-image" href="assets/images/apple-splash-2360-1640.png" media="(device-width: 820px) and (device-height: 1180px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)">
+    <link rel="apple-touch-startup-image" href="assets/images/apple-splash-1668-2224.png" media="(device-width: 834px) and (device-height: 1112px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)">
+    <link rel="apple-touch-startup-image" href="assets/images/apple-splash-2224-1668.png" media="(device-width: 834px) and (device-height: 1112px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)">
+    <link rel="apple-touch-startup-image" href="assets/images/apple-splash-1620-2160.png" media="(device-width: 810px) and (device-height: 1080px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)">
+    <link rel="apple-touch-startup-image" href="assets/images/apple-splash-2160-1620.png" media="(device-width: 810px) and (device-height: 1080px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)">
+    <link rel="apple-touch-startup-image" href="assets/images/apple-splash-1320-2868.png" media="(device-width: 440px) and (device-height: 956px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)">
+    <link rel="apple-touch-startup-image" href="assets/images/apple-splash-2868-1320.png" media="(device-width: 440px) and (device-height: 956px) and (-webkit-device-pixel-ratio: 3) and (orientation: landscape)">
+    <link rel="apple-touch-startup-image" href="assets/images/apple-splash-1206-2622.png" media="(device-width: 402px) and (device-height: 874px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)">
+    <link rel="apple-touch-startup-image" href="assets/images/apple-splash-2622-1206.png" media="(device-width: 402px) and (device-height: 874px) and (-webkit-device-pixel-ratio: 3) and (orientation: landscape)">
+    <link rel="apple-touch-startup-image" href="assets/images/apple-splash-1290-2796.png" media="(device-width: 430px) and (device-height: 932px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)">
+    <link rel="apple-touch-startup-image" href="assets/images/apple-splash-2796-1290.png" media="(device-width: 430px) and (device-height: 932px) and (-webkit-device-pixel-ratio: 3) and (orientation: landscape)">
+    <link rel="apple-touch-startup-image" href="assets/images/apple-splash-1179-2556.png" media="(device-width: 393px) and (device-height: 852px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)">
+    <link rel="apple-touch-startup-image" href="assets/images/apple-splash-2556-1179.png" media="(device-width: 393px) and (device-height: 852px) and (-webkit-device-pixel-ratio: 3) and (orientation: landscape)">
+    <link rel="apple-touch-startup-image" href="assets/images/apple-splash-1284-2778.png" media="(device-width: 428px) and (device-height: 926px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)">
+    <link rel="apple-touch-startup-image" href="assets/images/apple-splash-2778-1284.png" media="(device-width: 428px) and (device-height: 926px) and (-webkit-device-pixel-ratio: 3) and (orientation: landscape)">
+    <link rel="apple-touch-startup-image" href="assets/images/apple-splash-1170-2532.png" media="(device-width: 390px) and (device-height: 844px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)">
+    <link rel="apple-touch-startup-image" href="assets/images/apple-splash-2532-1170.png" media="(device-width: 390px) and (device-height: 844px) and (-webkit-device-pixel-ratio: 3) and (orientation: landscape)">
+    <link rel="apple-touch-startup-image" href="assets/images/apple-splash-1125-2436.png" media="(device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)">
+    <link rel="apple-touch-startup-image" href="assets/images/apple-splash-2436-1125.png" media="(device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3) and (orientation: landscape)">
+    <link rel="apple-touch-startup-image" href="assets/images/apple-splash-1242-2688.png" media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)">
+    <link rel="apple-touch-startup-image" href="assets/images/apple-splash-2688-1242.png" media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 3) and (orientation: landscape)">
+    <link rel="apple-touch-startup-image" href="assets/images/apple-splash-828-1792.png" media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)">
+    <link rel="apple-touch-startup-image" href="assets/images/apple-splash-1792-828.png" media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)">
+    <link rel="apple-touch-startup-image" href="assets/images/apple-splash-1242-2208.png" media="(device-width: 414px) and (device-height: 736px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)">
+    <link rel="apple-touch-startup-image" href="assets/images/apple-splash-2208-1242.png" media="(device-width: 414px) and (device-height: 736px) and (-webkit-device-pixel-ratio: 3) and (orientation: landscape)">
+    <link rel="apple-touch-startup-image" href="assets/images/apple-splash-750-1334.png" media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)">
+    <link rel="apple-touch-startup-image" href="assets/images/apple-splash-1334-750.png" media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)">
+    <link rel="apple-touch-startup-image" href="assets/images/apple-splash-640-1136.png" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)">
+    <link rel="apple-touch-startup-image" href="assets/images/apple-splash-1136-640.png" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)">
+  <link rel="stylesheet" href="styles.cd20e3b8a5a9d4e5.css"></head>
+  <body>
+    <div id="root"></div>
+  <script src="runtime.3cf6c9039bbe8954.js" type="module"></script><script src="styles.075804858074a621.js" type="module"></script><script src="main.b148998273130cd3.js" type="module"></script></body>
+</html>

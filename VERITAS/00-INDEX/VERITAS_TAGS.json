@@ -1,0 +1,42 @@
+{
+  "version": "v0.2-draft",
+  "date": "2026-03-21",
+  "launch_date": "2026-03-21",
+  "target_run_date": "2026-06-21",
+  "palette": {
+    "glacier_navy": "#0A1628",
+    "midnight_slate": "#162235",
+    "silver_ledger": "#C0C5CE",
+    "frost_white": "#F3F7FB",
+    "muted_teal": "#4A9B9F",
+    "reserve_gold": "#D4AF37"
+  },
+  "global_tags": [
+    "OTFZ",
+    "VERITAS",
+    "SLVR8",
+    "EchoMind",
+    "Spektraxa",
+    "AIR",
+    "MiddletonChain",
+    "LuxeVault",
+    "CBB3"
+  ],
+  "file_tags": {
+    "00-INDEX/VERITAS_MASTER_INDEX.md": ["index", "canonical", "navigation"],
+    "00-INDEX/VERITAS_CHANGELOG.md": ["index", "history", "release-management"],
+    "00-INDEX/VERITAS_FILE_REGISTER.csv": ["index", "manifest", "integrity"],
+    "00-INDEX/Public_Source_Links.md": ["index", "sources", "references"],
+    "01-WHITEPAPER/EchoMind_Overview.md": ["whitepaper", "identity", "echomind"],
+    "01-WHITEPAPER/Spektraxa_AIR_Identity.md": ["whitepaper", "identity", "spektraxa", "air"],
+    "01-WHITEPAPER/Homepage_Hero_Copy.md": ["whitepaper", "marketing", "homepage"],
+    "03-CONSENSUS/SLVR8_Veritas_Spec_v0_2.md": ["consensus", "technical", "slvr8", "veritas"],
+    "05-EDUCATION/Digital_Assets_Explained.md": ["education", "beginners", "digital-assets"],
+    "05-EDUCATION/AIR_Onboarding_Script.md": ["education", "air", "onboarding"],
+    "06-BUSINESS/Investor_One_Pager.md": ["business", "investor", "summary"],
+    "06-BUSINESS/Multi-Commerce_MCt_Unreleased_Token_Profile.md": ["business", "token", "restricted", "mct", "prelaunch"],
+    "09-DEV/otfz_fastapi_build_check.py": ["dev", "security", "build-check", "fastapi", "static-analysis"],
+    "09-DEV/start_otfz_fastapi_with_precheck.bat": ["dev", "launcher", "fastapi", "windows", "precheck"],
+    "09-DEV/install_requirements_and_start_otfz.bat": ["dev", "launcher", "fastapi", "windows", "pip", "precheck"]
+  }
+}

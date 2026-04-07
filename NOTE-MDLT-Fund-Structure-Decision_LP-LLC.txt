@@ -1,0 +1,349 @@
+SEC private record
+
+Form D Notice of Private Offering
+
+Section I: Issuer Information
+Name of Issuer: MIDDLETON SOLUTIONS INCORPORATED
+Address: 3043 Bethune Ave Macon, Bibb County
+State/Country: Georgia, USA
+
+Section II: Offering Information
+Type of Offering: Private
+Date of First Sale: [Leave blank, SEC will assign]
+Total Offering Amount: $1,500,000,000
+Total Amount Sold: $0 (initial filing)
+
+Section III: Fund Information
+Name of Funds:
+•  Stable Wave Fixed Income Fund
+•  Growth Surge High-Yield Bond Fund
+•  Innovation Tide Private Equity Fund
+Fund Types:
+•  Fixed Income
+•  High-Yield Bond
+•  Private Equity
+
+Section IV: Signature
+Name: Korey Middleton
+Title: CEO
+Signature: [Your Signature]
+Date: [Current Date]
+
+
+===============================
+
+
+Private Placement Memorandum (PPM)
+
+I. Introduction
+
+Middleton Solutions Inc. 
+DBA MKMANAGEMENT: Manager of Stable Wave, Growth Surge, and Innovation Tide funds
+Private Offering: $1.5 billion across three funds
+Accredited Investors Only
+
+II. Fund Summaries
+
+Stable Wave Fixed Income Fund
+•  Objective: income generation
+•  Strategy: investment-grade bonds
+•  Target return: 4% annual
+
+Growth Surge High-Yield Bond Fund
+•  Objective: growth and income
+•  Strategy: high-yield corporate bonds
+•  Target return: 8% annual
+
+Innovation Tide Private Equity Fund
+•  Objective: long-term capital growth
+•  Strategy: financial technology investments
+•  Target return: 18% annual
+
+III. Investment Strategies
+
+Stable Wave: 
+•  Invest in highly rated bonds
+•  Diversified portfolio
+
+Growth Surge: 
+•  Invest in high-yield bonds
+•  Active management
+
+Innovation Tide: 
+•  Invest in financial technology companies
+•  Strategic partnerships
+
+IV. Management Team
+
+Korey Middleton: CEO
+Bio: [Your Professional Bio]
+
+V. Fees and Expenses
+
+Management Fees:
+•  Stable Wave: 0.5% annual
+•  Growth Surge: 1% annual
+•  Innovation Tide: 2% annual
+Other Expenses: 
+•  Custodian fees
+•  Audit fees
+
+VI. Subscription Agreement
+
+Subscription Agreement Terms:
+Investor Qualification: Only accredited investors may subscribe.
+Minimum Investment: $250,000 per fund.
+
+Subscription Process:
+•  Step 1: Investor completes and signs Subscription Agreement.
+•  Step 2: Investor delivers Subscription Agreement and payment to Manager.
+•  Step 3: Manager reviews and accepts/rejects subscription in whole/part.
+
+Payment Terms:
+•  Payment due: 10 business days after Manager acceptance.
+•  Payment method: Wire transfer to fund account.
+
+Acceptance and Rejection:
+•  Manager reserves right to accept/reject subscriptions.
+•  Rejected subscriptions: funds returned promptly.
+6.  Closing: Subscription closes upon payment receipt by Manager.
+7.  Fund Interests: Interests issued promptly after closing.
+
+VII. Tax Considerations
+
+Fund Tax Status: Each fund is a pass-through entity for tax purposes.
+Investor Tax Implications:
+•  Ordinary income tax rates on interest/dividends
+•  Capital gains tax on sale of fund interests
+
+VIII. ERISA Considerations
+
+ERISA Plans: Funds not registered under ERISA.
+ERISA Investor Considerations:
+•  Plan fiduciaries must evaluate fund investments
+
+IX. Investment Restrictions
+
+Investment Company Act: Funds rely on exclusions from Act registration.
+Restrictions on Investments:
+•  No investments in other investment companies
+•  No investments in commodities/futures
+
+X. Plan of Distribution
+
+Private Offering: Interests offered privately to accredited investors.
+No General Solicitation: No general solicitation or advertising
+
+XI. Legal Matters
+
+Organization Documents: Funds organized as Delaware limited partnerships.
+Governing Law: Georgia law governs fund agreements and transactions
+
+XII. Independent Accountants
+
+Auditor Selection: Manager selects independent auditor annually.
+Audit Scope: Auditor conducts annual audits of fund financials
+
+XIII. Trading Policies
+
+Trading Strategies: Described in fund summaries (Section II).
+Trading Restrictions: Funds comply with applicable trading laws/regulations
+
+XIV. Valuation and Pricing
+
+Valuation Methodology: Assets valued at fair market value.
+Pricing Frequency: Fund interests priced daily.
+
+XV. Redemption Procedures
+
+Redemption Requests: Investors submit written redemption requests.
+Redemption Payment: Funds pay redemption amounts within 10 business days.
+
+XVI. Performance Data
+
+Past Performance: No past performance data presented.
+Future Performance: No guarantee of future results.
+
+XVII. Risk Factors Summary
+
+Investment Risk: Loss of principal invested.
+Liquidity Risk: Limited ability to redeem interests.
+Credit Risk: Borrowings may increase losses.
+
+XVIII. Appendices
+
+Appendix A: Fund Documents
+•  Memorandum and Articles of Association
+•  Bylaws
+Appendix B: Manager Documents
+•  MKMANAGEMENT organizational documents
+Appendix C: Service Provider Information
+•  Auditor contact info
+•  Custodian contact info
+
+XIX. Glossary
+
+Defined Terms: Definitions for technical terms used.
+
+XX. Back Cover
+
+Contact Information:
+•  MKMANAGEMENT address
+•  Phone number
+•  Email
+Disclaimer:
+•  PPM is not an offer to sell securities.
+
+
+===============================
+
+
+Subscription Agreement Draft:
+MIDDLETON SOLUTIONS INCORPORATED
+
+PRIVATE FUND SUBSCRIPTION AGREEMENT
+
+This Subscription Agreement ("Agreement") is made on [Current Date] ("Effective Date") by and between:
+1.  Verified Holdings LLC ("Manager"), a Georgia limited liability company; and
+2.  [Investor Name] ("Subscriber"), an accredited investor.
+
+RECITALS:
+
+A. Manager is the manager of three private funds: Stable Wave Fixed Income Fund, Growth Surge High-Yield Bond Fund, and Innovation Tide Private Equity Fund (collectively, the "Funds").
+B. Subscriber desires to subscribe for interests in one or more of the Funds.
+
+ARTICLE I: SUBSCRIPTION TERMS
+
+1.  Subscription Amount: Subscriber agrees to subscribe for [$_______] worth of interests in the following Fund(s):
+•  Stable Wave Fixed Income Fund: [$_______]
+•  Growth Surge High-Yield Bond Fund: [$_______]
+•  Innovation Tide Private Equity Fund: [$_______]
+2.  Minimum Subscription: The minimum subscription amount is $250,000 per Fund.
+3.  Subscription Deadline: Subscriber must fund subscription within 10 business days of Manager acceptance.
+
+ARTICLE II: ACCEPTANCE AND CLOSING
+
+Manager Acceptance: Manager reserves the right to accept or reject any subscription in whole or part.
+Closing: Subscription shall close upon receipt of funds by Manager.
+
+ARTICLE III: REPRESENTATIONS AND WARRANTIES
+
+Subscriber Representations: Subscriber represents and warrants to Manager that:
+•  Subscriber is an accredited investor.
+•  Subscriber has full power and authority to enter into this Agreement.
+
+ARTICLE IV: GOVERNING LAW
+
+Governing Law: This Agreement shall be governed by and construed in accordance with Georgia law.
+
+ARTICLE V: ENTIRE AGREEMENT
+
+Entire Agreement: This Agreement constitutes the entire agreement between parties.
+
+IN WITNESS WHEREOF, parties have executed this Agreement as of the Effective Date.
+
+Middleton Solutions Inc
+Korey Middleton
+CEO
+
+SUBSCRIBER
+Subscriber Signature
+Subscriber Name
+Date
+
+
+===============================
+
+
+Limited Partnership Agreement (LPA)
+
+1.  Growth Surge High-Yield Bond Fund LP
+2.  Innovation Tide Private Equity Fund LP
+Both LPAs are similar, except where noted.
+
+ARTICLE I: DEFINITIONS
+
+Fund: Growth Surge High-Yield Bond Fund LP or Innovation Tide Private Equity Fund LP
+General Partner (GP): MKMANAGEMENT
+Limited Partners (LPs): Investors in Fund
+Agreement: This Limited Partnership Agreement
+
+ARTICLE II: PURPOSE AND TERM
+
+Purpose: Invest in high-yield bonds (Growth Surge) or private equity (Innovation Tide)
+Term: Commences on effective date, continues until dissolution
+
+ARTICLE III: CAPITAL CONTRIBUTIONS
+
+Initial Contributions: LPs contribute amounts listed in Exhibit A
+Additional Contributions: GP may request additional contributions from LPs
+
+ARTICLE IV: DISTRIBUTIONS
+
+Distribution Priority:
+•  Fund expenses
+•  GP management fee
+•  LPs pro-rata
+Distribution Timing: Quarterly (Growth Surge), Annually (Innovation Tide)
+
+ARTICLE V: MANAGEMENT
+
+GP Responsibilities: Manage Fund investments and operations
+GP Fee: 1% annually (Growth Surge), 2% annually (Innovation Tide)
+
+ARTICLE VI: LIMITED PARTNERS
+
+LP Rights: Receive distributions, reports, and tax info
+LP Responsibilities: Comply with Agreement terms
+
+ARTICLE VII: TRANSFERS AND ASSIGNMENTS
+
+LP Interests: Not transferable without GP consent
+GP Interest: Not transferable without LP consent
+
+ARTICLE VIII: DISSOLUTION AND LIQUIDATION
+
+Dissolution Events:
+•  GP bankruptcy/insolvency
+•  LP bankruptcy/insolvency (50%+ of interests)
+•  Agreement termination
+Liquidation Process:
+•  GP winds up Fund affairs
+•  Distributes assets to creditors, then LPs
+
+ARTICLE IX: TAX MATTERS
+
+Tax Classification: Fund classified as partnership for tax purposes
+Tax Distributions: LPs receive tax info annually
+
+ARTICLE X: CONFIDENTIALITY
+
+Confidential Info: All Fund information
+Disclosure Restrictions: Parties only disclose confidential info as needed
+
+ARTICLE XI: GOVERNING LAW
+Governing Law: Georgia law governs this Agreement
+
+ARTICLE XII: DISPUTE RESOLUTION
+
+Dispute Process: Parties negotiate disputes in good faith
+Arbitration: Unresolved disputes go to arbitration
+
+ARTICLE XIII: ENTIRE AGREEMENT
+
+Entire Agreement: This Agreement constitutes entire agreement
+
+ARTICLE XIV: AMENDMENTS
+
+Amendment Process: GP proposes amendments to LPs
+Approval: Amendments approved by majority LP vote
+
+ARTICLE XV: NOTICES
+
+Notice Methods: Written notices via mail, email, or courier
+
+EXHIBIT A: LIMITED PARTNERS AND CAPITAL CONTRIBUTIONS
+[List of LPs and their contributions]
+
+EXHIBIT B: GENERAL PARTNER INFORMATION
+MKMANAGEMENT 

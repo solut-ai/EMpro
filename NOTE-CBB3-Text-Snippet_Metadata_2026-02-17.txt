@@ -1,0 +1,9 @@
+CBB3 Token Metadata:
+
+{
+  "name": "CBB3 Token",
+  "description": "Invest in Smart City Development with CBB3 Token",
+  "image": "https://dupfs9x6w9gj9.cloudfront.net/product/VE6OZJW6RY23AYRZ7XAVQ4L6/IMG_20230220_145822.jpg",
+  "external_url": "https://middleton.solutions",
+  "attributes": []
+}
